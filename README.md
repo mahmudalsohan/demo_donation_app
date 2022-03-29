@@ -1,16 +1,12 @@
-# demo_donation_app
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+<img width="1440" alt="Screenshot 2022-03-29 at 6 15 30 AM" src="https://user-images.githubusercontent.com/79181631/160508149-a91057f3-357b-4e96-a813-9bacd53d0954.png">
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h2>Key Features<\h2>
+  1. Built completely from scrach in just 2 hrs!
+  2. Responsive across all the different screen sizes!
+  3. Built for android and iOS!
+  
+  
