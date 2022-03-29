@@ -20,6 +20,11 @@ https://user-images.githubusercontent.com/79181631/160509317-f7cfc378-d82b-4dcf-
 
 <h2>Improvements</h2>
   1. It would take less time if I will copy and paste the code from the provided repo!</br>
+  2. The pie chart could be more good looking. I didn't have much time to customise it more.</br>
+  3. Some colors, icons and images could be bettter. I didn't get those separately, just used what I can manage in this short period of time.</br>
   
   
+  
+  
+  <h2>Hope you'll like it☺️<h2>
   
